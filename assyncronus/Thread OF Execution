@@ -1,0 +1,7 @@
+JavaScript is a Single-threaded laguage
+
+single sequential flow of control
+
+javacript is a synchronous language with asynchronous capabilities
+
+a thread has a call stack & memory

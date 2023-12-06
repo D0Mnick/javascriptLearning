@@ -1,0 +1,6 @@
+XMLHttpRequest Object
+
+A built-in browser object that allows us to make HTTP request. We can make
+request to servers without having tp refresh the page. This allows us to make out webpages much more dynamic
+
+these days. you will be using the fetch API over XHR, however, i think it is still important to know how to use.

@@ -1,0 +1,40 @@
+What is HTTP?
+
+HYPERTEXT TRANSFER PROTOCOL is the protocol for sending and receiving data on the web.
+
+HTTP is a client/server protocol, Request are initiated by the client (you) and
+the server will respond with a "response"
+
+The response could be HTML, CSS,JS Files, images and other resources as well as data formattedas JSON or XML
+
+MAKING REQUEST FROM JAVACRIPT
+
+many time, you will want to fecth some data and update a specific part of the
+DOM/webpage. we can do this using JAVACRIPT
+
+AJAX/XMLHttpRequest object was the original way of doing this, however, these days we mostly use fecth API that is available to us in the browser environment
+
+HTTP Methods
+
+GET Request - Fecth/retrieve data from the server
+POST Request - send data to the server
+PUT & PATCH Request Update data on a server
+DELETE Request - Delete data from a server
+
+HTTP Status Codes
+
+100Range - continue
+200 Range - Success
+300 Range - Redirects
+400 Range - Client Error
+500 Range Server Error
+
+200 - Success
+201 - Created
+204 - No Content
+301 - Resource Moved
+400 -Bad Request
+401 - Unauthorized
+403 - Forbidden
+404 - Not Found
+500 - Error on server
